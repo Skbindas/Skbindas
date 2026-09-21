@@ -65,8 +65,8 @@ A Chrome extension focused on downloading Bilibili videos.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skbindas&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff&title_color=111827&text_color=4B5563&icon_color=2563EB" height="180" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skbindas&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=4B5563&icon_color=2563EB" height="180" alt="Top languages">
+  <img src="https://raw.githubusercontent.com/Skbindas/Skbindas/main/assets/github-stats.svg" height="180" alt="GitHub stats">
+  <img src="https://raw.githubusercontent.com/Skbindas/Skbindas/main/assets/top-languages.svg" height="180" alt="Top languages">
 </p>
 
 ## Current Mindset
